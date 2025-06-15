@@ -47,7 +47,7 @@ title: CV
         <h3>Master of Engineering</h3>
         <p class="date">08/2011 - 07/2013</p>
         <p>Harbin Institute of Technology, Harbin, Heilongjiang, China</p>
-        <p><strong>Thesis:</strong> Development of a CATIA-based Motion Simulation System for Automatic Fiber Placement Equipment</p>
+        <p><strong>Thesis:</strong> Development of a CATIA-based Motion Simulation System for Automatic Fiber Placement Equipments</p>
         <p><strong>Supervisors:</strong> Professor Hua Lu, Professor Zhenyu Han</p>
     </div>
 
@@ -68,6 +68,118 @@ title: CV
     </div>
     <div class="cv-item">
         <p>Fan Yang, Pierre Le Bodic, Michael Kamp, and Mario Boley. "Orthogonal Gradient Boosting for Simpler Additive Rule Ensembles." In <em>International Conference on Artificial Intelligence and Statistics</em>, pp. 1117-1125. PMLR, 2024. <a href="https://proceedings.mlr.press/v238/yang24b.html">Link</a></p>
+    </div>
+    <div class="cv-item">
+        <p>Yukun Cheng, Fan Yang, and Renfei Li, "Technical Analysis of Niululing Hydropower Station 20MW Unit 3 Transformation", <em>Large Electric Machine and Hydraulic Turbine</em>, Vol. 1, pp. 44-47, 2015.</p>
+    </div>
+    <div class="cv-item">
+        <p>Hua Lu, Fan Yang, Hongyu Jin, and Zhenyu Han, "A Post-Processing Algorithm for Gantry-Type Automated Fibre Placement Machine", <em>Advanced Materials Research</em>, Vol. 763, pp. 187-190, 2013. <a href="https://www.scientific.net/AMR.763.187">Link</a></p>
+    </div>
+    <div class="cv-item">
+        <p>Zhenyu Han, Qiangqiang Fu, Fan Yang, Yunzhong Fu, and Hongya Fu, "A Path Planning Algorithm of Closed Surface for Fibre Placement", In <em>Proceedings of the first International Conference on Mechanical Engineering and Material Science</em>, pp. 509-512, 2012. <a href="https://doi.org/10.2991/mems.2012.100">Link</a></p>
+    </div>
+</section>
+
+<section class="cv-section">
+    <h2>Key Projects & Research</h2>
+    <div class="cv-item">
+        <h3>Water Analytics Partnership</h3>
+        <p class="date">2022-2023</p>
+        <p>Southeast Water & Monash University</p>
+        <ul>
+            <li>Conducted large-scale data analysis of pipe leakage patterns using Python, networkx and statistical modeling</li>
+            <li>Developed predictive models for pipe leakage and sensor sensitivity</li>
+            <li>Collaborated with industry stakeholders to translate technical findings into business recommendations</li>
+        </ul>
+    </div>
+    <div class="cv-item">
+        <h3>Interpretable Machine Learning Research</h3>
+        <p class="date">2021-2025</p>
+        <p>Monash University</p>
+        <ul>
+            <li>Developed novel "Orthogonal Gradient Boosting" algorithm improving accuracy-interpretability trade-off</li>
+            <li>Created framework combining Mixed Integer Programming with Machine Learning for transparent model development</li>
+            <li>Applied Machine Learning models to chemistry applications (PISA reactions) demonstrating cross-domain expertise</li>
+        </ul>
+    </div>
+    <div class="cv-item">
+        <h3>Explainable AI for Autonomous Systems</h3>
+        <p class="date">2024-2025</p>
+        <p>Monash University</p>
+        <ul>
+            <li>Designed explainable reinforcement learning framework for autonomous decision-making</li>
+            <li>Developed rule ensemble methods for interpretable AI in safety-critical applications</li>
+            <li>Published research in top-tier AI conference (AAMAS 2025)</li>
+        </ul>
+    </div>
+</section>
+
+<section class="cv-section">
+    <h2>Research Impact</h2>
+    <div class="cv-item">
+        <p><strong>Publications:</strong> 6 peer-reviewed publications including 3 in top-tier Machine Learning conferences (AISTATS, AAMAS, ECML PKDD)</p>
+        <p><strong>Recognition:</strong> Accepted papers in venues with <25% acceptance rates</p>
+        <p><strong>Collaboration:</strong> Cross-disciplinary research spanning interpretable Machine Learning, Reinforcement Learning, optimization, chemistry, and water management</p>
+        <p><strong>Innovation:</strong> Novel algorithms addressing fundamental Machine Learning challenges in interpretability and efficiency</p>
+    </div>
+</section>
+
+<section class="cv-section">
+    <h2>Professional Experience</h2>
+    <div class="cv-item">
+        <h3>Teaching Associate & Course Developer</h3>
+        <p class="date">02/2019 - Present</p>
+        <p>Monash University, Melbourne</p>
+        <ul>
+            <li>Delivered courses in Java, Python, fundamentals of AI, data structures and algorithms, and discrete optimization modelling for 200+ students annually</li>
+            <li>Developed curriculum and assignments for undergraduate and postgraduate programs</li>
+            <li>Mentored students in capstone projects involving machine learning and data analysis</li>
+            <li>Maintained consistently high teaching evaluations and student satisfaction scores</li>
+        </ul>
+    </div>
+    <div class="cv-item">
+        <h3>Research Assistant</h3>
+        <p class="date">06/2022 - 07/2023</p>
+        <p>Monash University, Melbourne</p>
+        <ul>
+            <li>Organization of DSAI Summit 2023 in Monash University with 100+ attendees from academia and industry</li>
+            <li>Conducted data analytics projects for Southeast Water involving large-scale data processing</li>
+        </ul>
+    </div>
+    <div class="cv-item">
+        <h3>Researcher</h3>
+        <p class="date">08/2013 - 05/2015</p>
+        <p>Harbin Electric Company, Limited, Harbin, China</p>
+        <ul>
+            <li>Responsible for the designing of hydro-turbines, pumps, and hydro-power equipment</li>
+            <li>Developped a novel method for surface unfolding based on UG NX</li>
+        </ul>
+    </div>
+</section>
+
+<section class="cv-section">
+    <h2>Leadership & Professional Service</h2>
+    <div class="cv-item">
+        <p><strong>Event Management:</strong> Organizer, DSAI Summit 2023 - coordinated 100+ participant conference</p>
+        <p><strong>Teaching Leadership:</strong> Course design and curriculum development for multiple IT/AI/ML courses</p>
+        <p><strong>Mentoring:</strong> Supervised undergraduate and postgraduate students in research projects</p>
+        <p><strong>Industry Collaboration:</strong> Liaison between academic research and industry applications (Southeast Water)</p>
+        <p><strong>Professional Member:</strong> Australian Computer Society - active in ML/AI community</p>
+    </div>
+</section>
+
+<section class="cv-section">
+    <h2>Awards and Honors</h2>
+    <div class="cv-item">
+        <p><strong>2020:</strong> Faculty of Information Technology Research Scholarship</p>
+        <p><strong>2020:</strong> Faculty of Information Technology International Postgraduate Research Scholarship</p>
+        <p><strong>2017:</strong> Information Technology International Merit Scholarship</p>
+        <p><strong>2012:</strong> Third-grade Excellent Postgraduate Scholarship of Harbin Institute of Technology</p>
+        <p><strong>2011:</strong> First-grade Excellent Postgraduate Scholarship of Harbin Institute of Technology</p>
+        <p><strong>2010:</strong> First Prize in "Chinese 4th National College Mechanical Design and Innovation Competition"</p>
+        <p><strong>2009:</strong> Second Prize in the "Chinese 1st National College Mathematics Competition"</p>
+        <p><strong>2008:</strong> Third-grade People's Scholarship for Undergraduate of Harbin Institute of Technology</p>
+        <p><strong>2008:</strong> Second Prize of SMC scholarship</p>
     </div>
 </section>
 
@@ -92,6 +204,18 @@ title: CV
     <div class="cv-item">
         <h3>Optimization</h3>
         <p>Mixed Integer Programming, MiniZinc, discrete optimization</p>
+    </div>
+    <div class="cv-item">
+        <h3>Tools & Platforms</h3>
+        <p>Git, Jupyter, Linux, cloud computing (AWS/GCP basics)</p>
+    </div>
+    <div class="cv-item">
+        <h3>Databases</h3>
+        <p>SQL, distributed database systems</p>
+    </div>
+    <div class="cv-item">
+        <h3>Research</h3>
+        <p>Algorithm development, experimental design, statistical analysis</p>
     </div>
 </section>
 
