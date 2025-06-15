@@ -61,24 +61,22 @@ lang: zh
     <div class="cv-section">
         <h2>发表论文</h2>
         <div class="cv-item">
-            <h3>会议论文</h3>
-            <ul>
-                <li>
-                    <strong>正交梯度提升：改进加法模型的可解释性</strong><br>
-                    AISTATS 2024<br>
-                    作者：杨帆等
-                </li>
-                <li>
-                    <strong>可解释性强化学习：一种新的框架</strong><br>
-                    AAMAS 2023<br>
-                    作者：杨帆等
-                </li>
-                <li>
-                    <strong>混合整数规划在机器学习中的应用</strong><br>
-                    ECML PKDD 2022<br>
-                    作者：杨帆等
-                </li>
-            </ul>
+        <p>Fan Yang, Pierre Le Bodic, and Mario Boley. "Gradient Boosting versus Mixed Integer Programming for Sparse Additive Modeling." Accepted by <em>Joint European Conference on Machine Learning and Knowledge Discovery in Databases</em>, 2025.</p>
+        </div>
+        <div class="cv-item">
+            <p>Yue Yang*, Fan Yang*, Yu Bai, and Hao Wang. "Self-Interpretable Reinforcement Learning via Rule Ensembles." In <em>Proc. of the 24th International Conference on Autonomous Agents and Multiagent Systems</em>, pp. 2235-2243. 2025. <a href="https://dl.acm.org/doi/abs/10.5555/3709347.3743863">Link</a> (* Equal contribution)</p>
+        </div>
+        <div class="cv-item">
+            <p>Fan Yang, Pierre Le Bodic, Michael Kamp, and Mario Boley. "Orthogonal Gradient Boosting for Simpler Additive Rule Ensembles." In <em>International Conference on Artificial Intelligence and Statistics</em>, pp. 1117-1125. PMLR, 2024. <a href="https://proceedings.mlr.press/v238/yang24b.html">Link</a></p>
+        </div>
+        <div class="cv-item">
+            <p>Yukun Cheng, Fan Yang, and Renfei Li, "Technical Analysis of Niululing Hydropower Station 20MW Unit 3 Transformation", <em>Large Electric Machine and Hydraulic Turbine</em>, Vol. 1, pp. 44-47, 2015.</p>
+        </div>
+        <div class="cv-item">
+            <p>Hua Lu, Fan Yang, Hongyu Jin, and Zhenyu Han, "A Post-Processing Algorithm for Gantry-Type Automated Fibre Placement Machine", <em>Advanced Materials Research</em>, Vol. 763, pp. 187-190, 2013. <a href="https://www.scientific.net/AMR.763.187">Link</a></p>
+        </div>
+        <div class="cv-item">
+            <p>Zhenyu Han, Qiangqiang Fu, Fan Yang, Yunzhong Fu, and Hongya Fu, "A Path Planning Algorithm of Closed Surface for Fibre Placement", In <em>Proceedings of the first International Conference on Mechanical Engineering and Material Science</em>, pp. 509-512, 2012. <a href="https://doi.org/10.2991/mems.2012.100">Link</a></p>
         </div>
     </div>
 

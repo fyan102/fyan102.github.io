@@ -289,6 +289,9 @@ footer {
 .language-switcher {
     margin-left: auto;
     padding: 0.5rem 1rem;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
 }
 
 .language-switcher a {
@@ -317,6 +320,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
 }
 
 header nav ul {
@@ -380,16 +384,15 @@ header nav ul {
         font-size: 1.2rem;
     }
     
-    .language-switcher {
-        padding: 0.5rem;
-    }
-    
     header nav {
         flex-direction: column;
         gap: 1rem;
+        position: relative;
     }
     
     .language-switcher {
-        margin-left: 0;
+        position: static;
+        margin: 0.5rem 0;
+        padding: 0.5rem;
     }
 } 
