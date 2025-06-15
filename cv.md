@@ -7,7 +7,7 @@ title: CV
     <h1>Fan Yang</h1>
     <p>Machine Learning Researcher and Practitioner</p>
     <div class="contact-info">
-        <p>📍 30 Woorayl St, Carnegie, VIC, 3163, Australia</p>
+        <p>📍 20 Exhibition Walk, Clayton VIC 3168, Australia</p>
         <p>📱 +61 415 361 008</p>
         <p>✉️ fan.yang1@monash.edu</p>
     </div>
