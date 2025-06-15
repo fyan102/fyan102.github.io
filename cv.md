@@ -15,7 +15,7 @@ title: CV
 
 <section class="cv-section">
     <h2>Professional Summary</h2>
-    <p>Machine Learning researcher and practitioner with PhD in Information Technology and 5+ years of experience developing interpretable AI algorithms. Published in top-tier venues (such as AISTATS, AAMAS, ECML PKDD) with demonstrated expertise in statistical modeling, optimization, and translating complex research into practical applications. Proven track record in both academic research and industry collaboration with strong programming and communication skills.</p>
+    <p>Machine Learning researcher and practitioner with PhD in Information Technology and 5+ years of experience developing interpretable AI algorithms. I have published my research work in top-tier venues (such as AISTATS, AAMAS, ECML PKDD) with demonstrated expertise in statistical modeling, optimization, and translating complex research into practical applications. I have proven track record in both academic research and industry collaboration with strong programming and communication skills.</p>
 </section>
 
 <section class="cv-section">
@@ -83,23 +83,13 @@ title: CV
 <section class="cv-section">
     <h2>Key Projects & Research</h2>
     <div class="cv-item">
-        <h3>Water Analytics Partnership</h3>
-        <p class="date">2022-2023</p>
-        <p>Southeast Water & Monash University</p>
-        <ul>
-            <li>Conducted large-scale data analysis of pipe leakage patterns using Python, networkx and statistical modeling</li>
-            <li>Developed predictive models for pipe leakage and sensor sensitivity</li>
-            <li>Collaborated with industry stakeholders to translate technical findings into business recommendations</li>
-        </ul>
-    </div>
-    <div class="cv-item">
         <h3>Interpretable Machine Learning Research</h3>
         <p class="date">2021-2025</p>
         <p>Monash University</p>
         <ul>
-            <li>Developed novel "Orthogonal Gradient Boosting" algorithm improving accuracy-interpretability trade-off</li>
-            <li>Created framework combining Mixed Integer Programming with Machine Learning for transparent model development</li>
-            <li>Applied Machine Learning models to chemistry applications (PISA reactions) demonstrating cross-domain expertise</li>
+            <li>Developed a novel "Orthogonal Gradient Boosting" algorithm to improve accuracy-interpretability trade-off of machine learning models</li>
+            <li>Created a framework combining Mixed Integer Programming (MIP) with interpretable machine learning models for transparent model development</li>
+            <li>Applied interpretable machine learning to chemical applications (PISA reactions) demonstrating cross-domain expertise</li>
         </ul>
     </div>
     <div class="cv-item">
@@ -110,6 +100,16 @@ title: CV
             <li>Designed explainable reinforcement learning framework for autonomous decision-making</li>
             <li>Developed rule ensemble methods for interpretable AI in safety-critical applications</li>
             <li>Published research in top-tier AI conference (AAMAS 2025)</li>
+        </ul>
+    </div>
+    <div class="cv-item">
+        <h3>Water Pipe Leakage Analytics</h3>
+        <p class="date">2022-2023</p>
+        <p>Southeast Water & Monash University</p>
+        <ul>
+            <li>Conducted large-scale data analysis of pipe leakage patterns using Python, networkx and statistical modeling</li>
+            <li>Developed predictive models for pipe leakage and sensor sensitivity</li>
+            <li>Collaborated with industry stakeholders to translate technical findings into business recommendations</li>
         </ul>
     </div>
 </section>
@@ -152,7 +152,7 @@ title: CV
         <p>Harbin Electric Company, Limited, Harbin, China</p>
         <ul>
             <li>Responsible for the designing of hydro-turbines, pumps, and hydro-power equipment</li>
-            <li>Developped a novel method for surface unfolding based on UG NX</li>
+            <li>Developped a novel surface unfolding method based on UG NX</li>
         </ul>
     </div>
 </section>
