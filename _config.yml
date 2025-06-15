@@ -1,0 +1,16 @@
+title: Fan Yang
+description: Machine Learning Researcher and Practitioner
+baseurl: ""
+url: "https://fyan102.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - .gitignore
+  - fan_cv_english.tex 
